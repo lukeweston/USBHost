@@ -1,0 +1,10 @@
+
+Breakout / Development board for the FTDI Vinculum2 USB Host Controller.
+Provides relatively low cost capability to add USB host support to an Arduino, Dragino, etc.
+Can be interfaced over either serial UART or SPI.
+
+Released under the TAPR Open Hardware License: http://tapr.org/ohl
+
+Luke Weston, 2011
+
+
